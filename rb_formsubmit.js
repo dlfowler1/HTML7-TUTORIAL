@@ -20,7 +20,7 @@
 
 */
 
-window.onload = setForm;
+// window.onload = setForm;
 
 function setForm() {
    document.forms[0].onsubmit = function() {
